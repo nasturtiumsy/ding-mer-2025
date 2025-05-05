@@ -3,12 +3,12 @@ The final output is the folder named 'Merged-Groupwork-Final-Output'. Other work
 ACCOUNT DETAILS FOR EXISTING USER LOGIN:
 
 (1)
-Email: aleafapparel@gmail.com
-Password: Alif_123!
+<br>Email: aleafapparel@gmail.com
+<br>Password: Alif_123!
 
 (2)
-Email: eathere@jollibee.com
-Password: Jolly00_@good
+<br>Email: eathere@jollibee.com
+<br>Password: Jolly00_@good
 
 ** If password has been changed, please ensure to write it down somewhere.
 --------------------------------------------------
@@ -19,15 +19,15 @@ STEPS TO LAUNCH THE WEBSITE:
 
 2. Copy the directory path of the folder into the terminal (command prompt)
 
-3. Install the following modules by copy-pasting the commands one at at time into the terminal:
-	npm install @supabase/supabase-js
-	npm install @supabase/supabase-js bcrypt
-	npm install bcryptjs
-	npm install chart.js 
-	npm install xlsx
-	npm i –save-dev@types/file-saver
+3. Install the following modules by copy-pasting the commands one at at time into the terminal: <br>
+	npm install @supabase/supabase-js <br>
+	npm install @supabase/supabase-js bcrypt <br>
+	npm install bcryptjs <br>
+	npm install chart.js <br>
+	npm install xlsx <br>
+	npm i –save-dev@types/file-saver <br>
 
-If any or one of the modules is not detected, try this method instead:
+If any or one of the modules is not detected, try this method instead: <br>
 	npm i –save-dev@types**module name**
 
 4. Launch the website by inputting 'ionic serve' into the terminal. It will immediately open a tab in the browser for you.
@@ -37,9 +37,9 @@ If any or one of the modules is not detected, try this method instead:
 ** IMPORTANT: Ensure the newly created folder is prepared for ionic projects. If not:
 
 1. Input these into the terminal with the folder directory path, one at at time:
-	ionic start
-	npm install -g @ionic/cli @capacitor/assets
-	npm install
+	<br>ionic start
+	<br>npm install -g @ionic/cli @capacitor/assets
+	<br>npm install
 
 Only then, input: ionic serve
 
